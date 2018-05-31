@@ -1941,3 +1941,22 @@ workinggroups:
     contact:
       slack: wg-machine-learning
       mailing_list: https://groups.google.com/forum/#!forum/kubernetes-wg-machine-learning
+  - name: IoT Edge
+    mission_statement: >
+       Identify and fix gaps in Kubernetes to better support IoT applications.
+    leadership:
+      chairs:
+      - name: Dejan Bosanac	
+        github: dejanb
+        company: Red Hat
+    meetings:
+    - description: Regular WG Meeting
+      day: Friday
+      time: "15:00"
+      tz: "UTC"
+      frequency: bi-weekly
+      url: TBC
+      archive_url: TBC
+    contact:
+      slack: wg-iot-edge
+      mailing_list: https://groups.google.com/forum/#!forum/kubernetes-wg-iot-edge
